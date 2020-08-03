@@ -1,7 +1,7 @@
 {
   "id": "@acme/adapter-change_management",
   "type": "Adapter",
-  "src": "lab05.main.js",
+  "src": "main.js",
   "export": "ServiceNowAdapter",
   "roles": [
     "admin",
